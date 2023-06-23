@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio",
+  "version": "1.0.0",
+  "description": "primer ejercicio",
+  "main": "index.js",
+  "scripts": {
+    "Ejercicio": "node Ejercicio.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lizeth Tinjaca",
+  "license": "ISC"
+}
