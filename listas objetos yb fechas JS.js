@@ -46,10 +46,10 @@ const fecha_cadena = new Date("June 26 1997");
 const fecha_valores = new Date(2023, 12, 06);
 const dia = ahora.getDate();
 const mes = ahora.getDate() + 1;
-const año = ahora.getFullYear()
+const año = ahora.getFullYear();
 
 console.log(ahora);
 console.log(fecha_milis);
 console.log(fecha_cadena);
 console.log(fecha_valores);
-console.log(dia,mes,año);
+console.log(dia, mes, año);
